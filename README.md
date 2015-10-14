@@ -8,7 +8,7 @@ My name is Adrian Kemp and my goal is simple - no food outside of soylent for 36
 
 ####Motives
 
-**Money**, holy shit money. Some quick napkin math tells me I spend something around $900 a month on food -- that's on a good month, there's much worse. At a predictable $358 per month, one year of soylent 2.0 stands to save me *at minimum* about $7,000.
+**Money**, holy shit money. Some quick napkin math tells me I spend something around $900 a month on food -- that's on a good month, there's much worse. At a predictable $348 per month, one year of soylent 2.0 stands to save me *at minimum* about $7,000.
 
 **Fitness**, just about exactly five years ago I weighed in at 235lbs and was in really good shape. I liked the way I looked, and I was (indoor) rock climbing five days a week. Best summer of my life, as far as health and energy goes. Now I'm still strong as an ox, and my cardio fitness isn't too bad... but god damn if I haven't gotten fat in the last four years. Right now I weigh about 318lbs and am not at all happy about the way I look, let alone my ability to run around and play sports.
 

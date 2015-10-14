@@ -32,4 +32,4 @@ Click the links below to jump to the first, or the most recent days. The links a
 
 [Day 0](./day0.md)
 
-[Most Recent](./day0.md)
+[Most Recent](./day1.md)

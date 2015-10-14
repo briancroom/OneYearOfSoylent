@@ -24,6 +24,14 @@ Exceptions: Anniversary dinner next Sunday, and possibly a christmas celebration
 
 Non-exceptions: Family dinners, dinner with friends, and so on. If I'm home celebrating christmas or easter or whatever nonsense I'm there to celebrate that and not eat food. Thankfully Canadian thanksgiving is over and I have a couple of months to explain and prepare people for this. When going out for dinner with friends I'll be pushing for family-style meals where I can have a drink and forgo the food without any awkwardness.
 
+###Q&A
+
+[Questions & Answers](./qna.md)
+
+###How to read
+
+Click the links below to jump to the first, or the most recent days. The links are sensibly named so you can also just jump around via URL.
+
 [Day 0](./day0.md)
 
 [Most Recent](./day0.md)

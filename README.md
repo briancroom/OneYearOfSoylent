@@ -23,3 +23,7 @@ That's easy: no "normal" food; soylent for every meal of every day. Drinks are w
 Exceptions: Anniversary dinner next Sunday, and possibly a christmas celebration with friends that we already began planning last month. If absolutely needed, work related lunches or dinners -- but I will be trying to avoid and/or opt out of these.
 
 Non-exceptions: Family dinners, dinner with friends, and so on. If I'm home celebrating christmas or easter or whatever nonsense I'm there to celebrate that and not eat food. Thankfully Canadian thanksgiving is over and I have a couple of months to explain and prepare people for this. When going out for dinner with friends I'll be pushing for family-style meals where I can have a drink and forgo the food without any awkwardness.
+
+[Day 0](./day0.md)
+
+[Most Recent](./day0.md)

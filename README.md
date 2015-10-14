@@ -2,8 +2,6 @@
 A non-traditionally formatted blog about a guy going a year on soylent (mostly... hopefully.)
 
 ###Preamble
-My soylent 2.0 arrived last Friday, but I wasn't at the office to retrieve it. I was watching the Jays get their asses handed to them in ALDS Game 2 instead. I got sick over thanksgiving weekend, and because I worked from home this morning I ate a normal breakfast. As a result Day 1 will be tomorrow; on the plus side this gives me a great opportunity to preface what will hopefully be a year long, magical journey.
-
 First a quick word on what I'm doing here, in case you don't know me personally and have stumbled across this little nook of the internet:
 
 My name is Adrian Kemp and my goal is simple - no food outside of soylent for 365 days with as few exceptions as possible. I'll be drinking what I want, including the occasional beer and I'll be chewing gum. When meal time comes around though, it's soylent or nothing.

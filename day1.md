@@ -12,6 +12,8 @@
 ###Meals
 
 - 400kcal soylent 2.0 @ 06:15Z
+- Some sort of hipster salad (business lunch)
+- 800kcal soylent 2.0 @ 21:00Z
 
 ###Drinks
 

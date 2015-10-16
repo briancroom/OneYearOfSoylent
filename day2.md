@@ -31,6 +31,10 @@ Still digging the flavour, still feeling good. I just am really looking forward 
 
 Probably because of the sleep schedule stuff, I'm just not consuming very much. I'll be keeping an eye on that.
 
+####Follow Up
+
+So I actually did only consume 300kcal yesterday, I've been screwed up because of lack of sleep all week.
+
 [Previous Day](./day1.md "Day 1")
 
 [Next Day](./day3.md "Day 3")
